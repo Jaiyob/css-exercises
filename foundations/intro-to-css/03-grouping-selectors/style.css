@@ -1,1 +1,6 @@
 /* Add CSS Styling */
+
+.first-el{
+    background-color: black;
+    color: white;
+}
