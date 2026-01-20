@@ -1,1 +1,5 @@
 /* Add CSS Styling */
+.pinky {
+    background-color: rgb(250, 95, 159);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
