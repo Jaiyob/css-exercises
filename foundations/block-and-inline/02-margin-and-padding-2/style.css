@@ -13,17 +13,20 @@ body {
 .title {
   background: #e3f4ff;
   padding: 15px;
+  font-size: 16pt;
 }
 
 .content {
   background: #e3f4ff;
   padding: 15px;
   margin: 10px 0;
+  font-size: 16pt;
 }
 
 .button-container {
   background: #e3f4ff;
   padding: 15px;
+  font-size: 16pt;
 }
 
 button {
