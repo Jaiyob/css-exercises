@@ -75,3 +75,7 @@ button.cancel {
 .flexitem2 {
   flex-direction: column;
 }
+
+.topline {
+  justify-content: space-between;
+}
