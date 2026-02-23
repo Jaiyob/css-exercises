@@ -30,6 +30,7 @@ img {
 .content {
   display: flex;
   justify-content: center;
+  gap: 52px;
 }
 
 .container {
