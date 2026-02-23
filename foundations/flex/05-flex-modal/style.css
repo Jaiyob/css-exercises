@@ -67,3 +67,11 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+.modal, .flexitem1, .flexitem2, .topline, .buttondiv {
+  display: flex;
+}
+
+.flexitem2 {
+  flex-direction: column;
+}
