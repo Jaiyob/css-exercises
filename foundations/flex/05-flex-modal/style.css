@@ -82,4 +82,6 @@ button.cancel {
 
 .topline {
   justify-content: space-between;
+  font-weight: bold;
+  font-size: larger;
 }
