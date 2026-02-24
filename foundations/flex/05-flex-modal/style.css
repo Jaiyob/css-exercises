@@ -74,6 +74,10 @@ button.cancel {
   display: flex;
 }
 
+.buttondiv {
+  gap: 5px;
+}
+
 .flexitem2 {
   flex-direction: column;
   margin: 10px;
