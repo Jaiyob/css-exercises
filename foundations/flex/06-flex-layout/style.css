@@ -32,3 +32,11 @@ input {
   display: flex;
   justify-content: space-between;
 }
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 20px;
+}
