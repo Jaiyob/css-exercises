@@ -31,6 +31,7 @@ input {
 .header, .footer {
   display: flex;
   justify-content: space-between;
+  padding: 20px;
 }
 
 ul {
@@ -44,4 +45,5 @@ ul {
 ul a {
   text-decoration: none;
   color: black;
+  font-size: larger;
 }
