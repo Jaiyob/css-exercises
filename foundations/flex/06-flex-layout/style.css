@@ -34,6 +34,10 @@ input {
   padding: 20px;
 }
 
+.footer {
+  background-color: #eeeeee;
+}
+
 ul {
   list-style-type: none;
   padding: 0;
