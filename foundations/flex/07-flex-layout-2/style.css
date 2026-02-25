@@ -28,12 +28,15 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  font-size: 24px;
 }
 
 .sidebar ul, a {
   list-style-type: none;
   text-decoration: none;
   color: white;
+  margin: 0;
+  padding: 0px;
 }
 
 .card {
