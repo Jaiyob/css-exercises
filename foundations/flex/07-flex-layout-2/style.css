@@ -30,6 +30,12 @@ body {
   box-sizing: border-box;
 }
 
+.sidebar ul, a {
+  list-style-type: none;
+  text-decoration: none;
+  color: white;
+}
+
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
