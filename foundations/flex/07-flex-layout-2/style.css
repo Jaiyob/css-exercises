@@ -55,4 +55,5 @@ body {
 .cardspace {
   display: flex;
   padding: 48px;
+  flex-wrap: wrap;
 }
